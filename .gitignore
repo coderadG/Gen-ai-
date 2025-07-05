@@ -1,0 +1,10 @@
+# Ignore environment files
+Gen ai/.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.env/
